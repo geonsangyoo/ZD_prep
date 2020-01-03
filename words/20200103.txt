@@ -1,0 +1,162 @@
+Affe
+Monkey
+Mann
+man
+Banane
+Banana
+Bank
+Bank
+CD
+CD
+Circa
+Approximately
+da
+there
+Dame
+lady
+Tee
+tea
+Heft
+notebook
+Foto
+photo
+faul
+lazy
+gut
+good
+Ausgang
+exit, output
+Haus
+House
+Hafen
+port
+Idee
+idea
+immer
+always
+Japan
+Japan
+jemand
+someone
+Kaffee
+coffee
+Kino
+movie theater
+Lampe
+lamp
+lang
+long
+Moment
+moment
+Menge
+quantity
+Name
+name
+Anfang
+beginning
+Onkel
+uncle
+Boot
+boat
+Post
+post office
+Alphabet
+alphabet
+Quelle
+source
+Quittung
+receipt
+Bruder
+brothers
+Mutter
+mother
+Fenster
+window
+gestern
+yesterday
+Tante
+aunt
+Butter
+butter
+unter
+under
+uns
+us
+Vater
+father
+verkaufen
+sell
+Wagen
+car
+Wille
+will
+Text
+text
+Taxi
+taxi
+Symbol
+symbol
+System
+system
+Zimmer
+room
+Nation
+nation
+Ärztin
+doctor(woman)
+Käse
+cheese
+Töne
+sound
+Löffel
+spoon
+Tür
+door
+fünf
+five
+Fuß
+foot
+groß
+large
+Hallo! Ich heiße Julia.
+Hi there! My name is Julia.
+Guten Tag! Ich bin Hana.
+Good day! I am hana.
+Und wie heißt du?
+And what is your name?
+Mein Name ist Daniel Schmidt.
+My name is Daniel Schmidt.
+Freut mich.
+I am glad to meet you.
+Freut mich auch.
+I am also pleased too.
+Bist du Lara?
+Are you lara?
+Nein, Ich bin Alexandra. Wer bist du?
+No, I'm Alexandra. and you?
+Ja, ich bin neu hier. Bist du Chinesin?
+Yes I'm new here. Are you chinese?
+Nein, ich bin Koreanerin.
+No, I am Korean.
+Ach so, Entschuldigung! Ich bin Italienerin.
+Oh, sorry! I am Italian.
+Aha, Macht Nichts.
+Aha, don't worry.
+Hallo, Wie geht's?
+Hello, how are you?
+Hey! Alles Klar?
+Hey! Alright?
+Hey! Alles in Ordnung?
+Hey! Everything OK?
+Tschüs!
+Bye!
+Ciao
+Good Bye!
+Bye! See you!
+Auf Wiedersehen!
+Bis später!
+See you later!
+Bis gleich!
+See you soon!
+Bis Samstag!
+Until Saturday!
