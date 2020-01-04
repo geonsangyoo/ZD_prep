@@ -1,0 +1,204 @@
+Vater
+Father
+Sohn
+Son
+Morgen
+Morning
+Montag
+Monday
+Januar
+January
+Haar
+Hair
+Auto
+Car
+Mai
+May
+Baum
+Tree
+gelb
+yellow
+Herbst
+Autumn
+China
+Chinese
+noch
+still
+Buch
+Book
+Duft
+scent
+Geld
+money
+Gold
+Gold
+Ecke
+edge
+Tee
+tea
+klein
+small
+Ei
+egg
+Eis
+ice scream
+heute
+today
+Euro
+Euro
+euer
+your
+Fest
+Festival
+Schiff
+ship
+Phisik
+Physics
+Geige
+Violin
+Berg
+mountain
+regnen
+raining
+billig
+cheap
+Honig
+honey
+hinter
+behind
+gehen
+go
+Uhr
+watch
+Indien
+India
+Insel
+Island
+puppe
+doll
+Kopf
+head
+Quote
+quota
+Qualität
+Quality
+Regen
+Rain
+Doktor
+Doctor
+Schule
+School
+Suppe
+Soup
+Tat
+behavior
+Ufer
+Shore
+Von
+'s
+vorkommen
+occurrence
+Vase
+Vase
+Welt
+World
+Wohnung
+House
+Waffe
+Weapon
+Examen
+Exam
+typisch
+typical
+Handy
+Cellular phone
+Zeit
+Time
+Zunge
+Tongue
+Zug
+Train
+Käse
+Cheese
+König
+King
+Töchter
+Daughters
+Übung
+practice
+übermorgen
+to day after tomorrow
+süß
+cute
+Wortgruppen
+phrases
+Abkürzugen
+Abbreviations
+das Abonnement (Abo.)
+subscription
+der Akkumulator (Akku)
+battery
+der/die Auszubildende (der Azubi)
+trainee
+beziehungsweise (bzw.)
+respectively
+circa/zirka (ca.)
+approximately
+das heißt (d.h.)
+this means
+die Datenträger (DVD)
+DVD
+das Erdgeschoss (EG)
+ground floor
+das Obergeschoss (OG)
+upstairs
+das Untergeschoss (UG)
+downstairs
+et cetera (etc.)
+Others
+der Inter City Express
+Inter City Express
+das Kraftfahrzeug (Kfz)
+motor vehicle
+der Lastkraftwagen (Lkw)
+Car
+das Textnachricht (SMS)
+Text message
+das TV
+Television
+und so weiter (usw)
+and so on
+vergleiche (vgl)
+compare
+das Wasserklosett (WC)
+toilet(water closet)
+die Wohngemeinschaft (WG)
+housemates
+zum Beispiel (z.B)
+for example
+Woher kommst du?
+Where are you from?
+Ich komme aus Italien. Und du?
+I come from Italia, and you?
+Ich komme aus Korea.
+I come from Korea.
+Kommst du aus Südkorea?
+Do you come from South Korea?
+Ja, wo wohnst du in Italien?
+Yeah, Where do you live in Italy?
+Ich wohne in Rom. Und du? Wohnst du in Seoul?
+I live in Rome, and you? Do you live in Seoul?
+Ja, Ich wohne in Seoul.
+Yes, I live in Seoul.
+Guten Appetit!
+Enjoy!
+Danke, gleichfalls!
+Likewise
+Hana, was studierst du denn?
+Hana, what do you major in?
+Ich studiere Germanistik.
+I study German.
+Ach, deshalb sprichst du schon so gut Deutsch.
+Oh, that is whay you are already fluent in German.
+Haha, Danke.
+Haha, Thank you. 

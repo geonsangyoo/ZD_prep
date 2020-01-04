@@ -17,6 +17,8 @@ now = dt.datetime.now()
 ### PRIMARY Setting ###
 SOURCE_FILE = "words/{:%Y%m%d}.txt".format(now)
 SOURCE_MP_FILE = "mp3_files/{:%Y%m%d}".format(now)
+# SOURCE_FILE = "words/20200103.txt"
+# SOURCE_MP_FILE = "mp3_files/20200103"
 LANGUAGE = "de" #Deutsch
 PROGRESS = "\r #Progress → {:d}/{:d}"
 MENU_SPEAK = 1
@@ -39,6 +41,7 @@ def create_mp3Files():
     index = 0
     if arr_len <= 0:
         print("Err:Word array is empty!!")
+        exit()
     else:
         for s in ARR_DE:
             index += 1
@@ -49,6 +52,7 @@ def create_mp3Files():
 def convert_to_mp3(source_file_name, mp3_folder_name):
     if not os.path.exists(source_file_name):
         print('Err:Please insert source file into filepath:{:}!'.format(SOURCE_FILE))
+        exit()
     else:
         print("Loading words from file......")
         load_file(source_file_name)
@@ -83,8 +87,10 @@ def sound_recog():
             print("↓↓↓↓Google thinks you spoke to him that ↓↓↓↓\n" + r.recognize_google(audio, language="de-DE"))
     except sr.UnknownValueError:
         print("Google could not understand what you had told")
+        exit()
     except sr.RequestError as e:
         print("Google Error; {0}".format(e))
+        exit()
 def clean_screen():
     os.system("clear")
     print(MANUAL)
@@ -116,7 +122,7 @@ while True:
     elif key == 's':
         print("Speak out in Deutsch for the sentence")
         sound_recog()
-        print("Answer →→→→→ {:s}".format(ARR_DE[rand_num]))
+        print("Answer is [{:s}]".format(ARR_DE[rand_num]))
         input("Press Enter to continue......")
         clean_screen()
         rand_num = int(rand.random()*(len(ARR_DE)-1))
@@ -124,14 +130,14 @@ while True:
     elif key == 'w':
         print("Write an answer in Deutsch >> ", end='')
         answer = input()
-        print("Answer →→→→→ {:s}".format(ARR_DE[rand_num]))
+        print("Answer is [{:s}]".format(ARR_DE[rand_num]))
         input("Press Enter to continue......")
         clean_screen()
         rand_num = int(rand.random()*(len(ARR_DE)-1))
         FILE_PATH = SOURCE_MP_FILE + "/{:03d}.mp3".format(rand_num+1)
     elif key == 'q':
         print("QUIT PROGRAM")
-        break
+        exit()
     else:
         print("Err:Input a wrong key!")
         input("Press Enter to continue......")
