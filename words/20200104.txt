@@ -20,7 +20,7 @@ gelb
 yellow
 Herbst
 Autumn
-China
+Chinesin
 Chinese
 noch
 still
@@ -190,7 +190,7 @@ Ich wohne in Rom. Und du? Wohnst du in Seoul?
 I live in Rome, and you? Do you live in Seoul?
 Ja, Ich wohne in Seoul.
 Yes, I live in Seoul.
-Guten Appetit!
+Guten Appetite!
 Enjoy!
 Danke, gleichfalls!
 Likewise
