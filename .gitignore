@@ -1,5 +1,7 @@
 # Folder
 mp3_files/
+.vscode/
 
 # File
 *.mp3
+*.DS_Store
