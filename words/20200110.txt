@@ -1,0 +1,50 @@
+Biologie
+Biology
+Chemie
+Chemistry
+Geografie
+Geography
+Geschichte
+History
+Mathe
+Mathematics
+Musik
+Music
+Philosophie
+Philosophy
+Physik
+Physics
+Sport
+Sports
+dunkel
+dark
+blau
+blue
+braun
+brown
+gelb
+yellow
+grau
+Gray
+grün
+green
+lila
+purple
+orange
+orange
+rosa
+pink
+rot
+red
+schwarz
+black
+violett
+violet
+weiß
+white
+farben
+colors
+Für jede Aufgabe gibt es nur eine richtige Lösung.
+There is only one right solution for every task.
+Kreuzen Sie bitte auf dem Antwortbogen an.
+Please tick on the answer sheet.
