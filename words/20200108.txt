@@ -17,7 +17,7 @@ the introduction
 die Folie
 the foil
 das Hilfsmittel
-the tool
+the tool (Auxilary)
 der Kommentar
 the comment
 lösen

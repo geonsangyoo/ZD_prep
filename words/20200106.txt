@@ -6,9 +6,8 @@ das E-Book
 E-Book
 der Fan
 Fan
-das Fax
+Fax
 faxen
-to fax
 das Festival
 Festival
 fit
@@ -46,7 +45,7 @@ Link
 live
 live
 die Mailbox, Mobilbox
-Mailbox
+Mailbox, Answering machine
 mailen
 to mail
 der Manager, die Managerin

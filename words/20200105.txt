@@ -17,7 +17,7 @@ to blog
 das Camp
 Camp
 die Castingshow
-Castingshow
+Talentshow
 der Chatroom
 Chatroom
 chatten
@@ -30,9 +30,9 @@ die City
 City
 der Club
 Club
-die Cola
+das Cola
 Cola
-der Comic
+das Comic
 Comic
 der Computer
 Computer
@@ -52,7 +52,7 @@ Ach so, schön. Wo und was studieren Sie?
 Oh, great! Where and what do you study?
 Ich studiere Germanistik an der Uni. Berlin.
 I study for German in Berlin University.
-Is das dein Familienfoto?
+Ist das dein Familienfoto?
 Is this your Family photo?
 Ja, das ist mein Vater und das ist meine Mutter.
 Yes, It is my fater and that is my mother
