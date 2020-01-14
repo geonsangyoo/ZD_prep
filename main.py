@@ -17,8 +17,8 @@ now = dt.datetime.now()
 ### PRIMARY Setting ###
 # SOURCE_FILE = "words/{:%Y%m%d}.txt".format(now)
 # SOURCE_MP_FILE = "mp3_files/{:%Y%m%d}".format(now)
-SOURCE_FILE = "words/20200111.txt"
-SOURCE_MP_FILE = "mp3_files/20200111"
+SOURCE_FILE = "words/20200115.txt"
+SOURCE_MP_FILE = "mp3_files/20200115"
 LANGUAGE = "de" #Deutsch
 PROGRESS = "\r #Progress → {:d}/{:d}"
 MENU_SPEAK = 1

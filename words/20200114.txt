@@ -1,0 +1,50 @@
+der Affe
+monkey
+der Bär
+bear
+die Biene
+bee
+der Elefant
+elephant
+die Ente
+duck
+der Fisch
+fish
+die Fliege
+fly
+die Giraffe
+giraffe
+der Hase
+rabbit
+der Hund
+dog
+das Insekt
+insect
+die Katze
+cat
+Ist das zu dünn?
+Is it too thin?
+Ja, es muss noch dicker sein.
+Yes, it has to be even thicker.
+Meine Freundin lernt Deutsch.
+My girlfriend is learning German.
+Ach so, dann empfehle ich Ihnen dieses Wörterbuch hier.
+Oh, then I recommend this dictionary here.
+Oh, das sieht gut aus. Wie viel kostet das?
+Oh, that looks good.
+Es ist 16.50 Euro.
+It is 16.50 euros.
+Ok, Ich nehme das.
+Ok, I'll take that.
+Gerne, was kann ich für Sie tun?
+Happy, what can I do for you?
+Das gefällt mir gut.
+I like that.
+Sie sehen gut aus.
+You look good.
+Du siehst nicht gut aus.
+You don't look good.
+Wo kann ich bezahlen?
+Where can I pay?
+Brauchen Sie eine Tüte?
+Do you need a bag?

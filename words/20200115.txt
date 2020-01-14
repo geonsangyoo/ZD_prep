@@ -1,0 +1,50 @@
+das Krokodil
+crocodile
+die Kuh
+cow
+der Löwe
+lion
+die Maus
+mouse
+die Mücke
+mosquito
+das Pferd
+horse
+der Pinguin
+penguin
+das Schaf
+sheep
+die Schildkröte
+turtle
+die Schlange
+snake
+das Schwein
+pig
+der Vogel
+bird
+Wo ist die Kasse?
+Where is the checkout?
+Wie ist Ihre Größe?
+What is your size?
+Ich finde den Reis nicht.
+I don't find the rice.
+Brauchen Sie den Beleg / die Quittung / den Kassenbon?
+Do you need a receipt?
+Darf ich das anprobieren?
+Can I try it on?
+Unterschreiben Sie hier bitte.
+Please sign here.
+Ist das im Angebot?
+Is this on offer?
+Wie viel kostet alles zusammen?
+How much is it all together?
+Können wir jetzt bestellen?
+Can we order now?
+Aber natürlich. Was hätten Sie gern?
+Of course, What would you like to have?
+Ich nehme die Speise mit der Nummer 20.
+I take the number 20 dish.
+Das ist ein Schweinebraten.
+This is a roast pork.
+Und für Sie?
+And what dish is for you?
