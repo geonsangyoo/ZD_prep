@@ -1,0 +1,52 @@
+Währungen
+currencies
+Masse
+measure
+Gewichte
+weight
+1 Euro
+1€
+1 Cent
+1c
+1 Franken
+1sFr.
+1 Rappen
+1Rp.
+ein Meter
+1m
+ein zentimeter
+1cm
+ein Meter fünfzehn
+1.15m
+zweihundert Kilometer
+200km
+ein Quadrameter
+m²
+ein Grad unter Null / minus ein Grad
+-1°C
+Für mich ein Weiner Schnitzel bitte.
+For me, a Weiner schnitzel please.
+Und was möchten Sie trinken?
+And what do you like to drink?
+Ich hätte gern ein helles Bier.
+I would like a light beer.
+Ich möchte ein Dunkles, bitte!
+I want a dark one, please!
+In Ordnung! Danke.
+Okay! Thank you.
+Wir möchten bezahlen.
+Check!
+Ok. Zusammen oder getrennt?
+Ok, together or separately?
+Zusammen, bitte.
+Together, please
+Das macht alles 37 Euro.
+37 euros for all
+Hier 40 Euro. Stimmt so.
+Here 40 euros, keep the change.
+Oh, vielen Dank. Hat das Essen geschmeckt?
+Oh, thank you. Did you enjoy the meal?
+Ja, es war super.
+Yes, it was awesome.
+Mir hat es auch sehr gut geschmeckt.
+I also enjoyed it very much.
