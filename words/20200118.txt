@@ -1,0 +1,48 @@
+einhundertundeins
+101
+zweihundert
+200
+eintausend
+1,000
+eine Million
+1,000,000
+eine Milliarde
+1,000,000,000
+erste (adj.)
+first, 1st (adj.)
+zweite (adj.)
+second (adj.)
+dritte (adj.)
+third (adj.)
+viertens (adj.)
+fourth (adj.)
+erstens (adv.)
+first (adv.)
+zweitens (adv.)
+second (adv.)
+drittens (adv.)
+third (adv.)
+viertens (adv.)
+fourth (adv.)
+einmal
+1 time
+zweimal
+2 times
+dreimal
+3 times
+viermal
+4 times
+einfach
+one, simple
+zweifach/doppelt
+double
+ein hab
+1/2
+ein Drittel
+1/3
+ein Viertel
+1/4
+neunzehnhundertneunundneunzig
+1999
+zweitausendundvier
+2004
