@@ -1,0 +1,84 @@
+Feiertage
+public holidays
+Neujahr
+New Year
+Ostern
+Easter
+Pfingsten
+Pentecost
+Weihnachten
+Christmas
+Silvester
+New Year's Eve
+Nationalfeiertag
+national holiday
+Jahreszeiten
+Seasons
+der Frühling / das Frühjahr
+Spring
+der Sommer
+summer
+der Herbst
+autumn
+der Winter
+winter
+Monatsnamen
+month name
+der Januar
+January
+der Februar
+Feburary
+der März
+March
+der April
+April
+der Mai
+May
+der Juni
+June
+der Juli
+July
+der August
+August
+der September
+September
+der Oktober
+October
+der November
+November
+der Dezember
+December
+Tageszeiten
+time of day
+der Tag
+day
+der Morgen
+morning
+der Vormittag
+A.M
+der Mittag
+noon
+der Nachmittag
+afternoon
+der Abend
+evening
+die Nacht
+night
+die Mitternacht
+midnight
+täglich, tagsüber
+daily, during the day
+morgens, am Morgen
+in the morning
+vormittags, am Vormittag
+during A.M
+mittags, zu Mittag, am Mittag
+at noon
+nachmittags, am Nachmittag
+during P.M
+abends, am Abend
+in the evening
+nachts, in der Nacht
+at night
+um Mitternacht
+at midnight
