@@ -1,0 +1,52 @@
+null Uhr drei
+00:03
+sieben Uhr fünfzehn
+07:15
+dreizehn Uhr siebzehn
+13:17 Uhr
+vierundzwanzig Uhr
+24:00 Uhr
+der Wochentag
+the weekday
+das Wochenende
+the weekend
+der Montag
+monday
+der Dienstag
+tuesday
+der Mittwoch
+wednesday
+der Donnerstag
+thursday
+der Freitag
+friday
+der Samstag
+saturday
+der Sonntag
+sunday
+die Sekunde
+second
+die Minute
+minute
+die Stunde
+hour
+der Tag
+day
+die Woche
+week
+der Monat
+month
+das Jahr
+year
+das Jahrzehnt
+decade
+das Jahrhundert
+century
+das Jahrtausend
+millennium
+Die Fahrt kostet ab Hamburg 200 Euro.
+The trip costs 200 Euros from Hamburg.
+Ab nächster Woche bielbt unser Geschäft samstags geschlossen.
+Our shop will be closed on Saturdays from next week.
+Mein Bruder besucht uns ab and zu.
+My brother visits us from time to time.
