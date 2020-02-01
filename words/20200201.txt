@@ -1,0 +1,104 @@
+die Anmeldung
+the registration
+Wo bekomme ich die Formulare für die Anmeldung?
+Where can I get the registration forms?
+Die Anmeldung ist im Erdgeschoss, Zimmer 55.
+Registration is on the ground floor, room 55.
+annehmen
+accept
+Ich nehme ihre Einladung gern an.
+I am happy to accept your invitation.
+Ich nehme an, dass Sie mit dem Vorschlag einverstanden sind.
+I assume that you agree with the proposal.
+die Annonce
+the advertisement
+Ich habe alle Annoncen gelesen, aber die Wohnungen sind zu teuer.
+I have read all the advertisements, but the apartments are too expensive.
+die Anrede
+the salutation
+Du darfst im Brief die Anrede nicht vergessen.
+You must not forget the title in the letter.
+anrufen
+call
+Ich rufe Sie heute Abend an.
+I will call you tonight
+der Anruf
+the calling
+Ich warte auf einen Anruf aus Berlin.
+I am waiting for a call from Berlin.
+der Anrufbeantworter
+the answering machine
+Ich habe dir eine Nachricht auf den Anrufbeantworter gesprochen.
+I spoke to you on the answering machine.
+die Ansage
+the announcement
+Achten Sie auf die Ansage am Bahnsteig.
+Pay attention to the announcement on the platform.
+der Regen
+rain
+der Wind
+wind
+der Schnee
+snow
+der Sturm
+storm
+der Nebel
+fog
+die Wolke
+cloud
+die Tropennacht
+tropical night
+der Feinstaub
+fine dust
+der Hagel
+hail
+der Regenschirm
+umbrella
+die Klimaanlage
+air conditioner
+der Luftbefeuchter
+humidifier
+die Heizung
+heating system
+die Stiefel
+boots
+die Regenjacke
+raincoat
+die Regenmantel
+raincoat
+die Maske
+mask
+die Mütze
+cap
+Die Sonne scheint, Es ist sonnig
+The sun is shining, it's sunny
+Es ist heiß.
+it is hot.
+Es ist kalt.
+it is cold.
+Es ist warm.
+it is warm.
+Es ist kühl.
+it is cool.
+Es ist windig.
+it is windy.
+Es ist bewölkt.
+it is cloudy.
+Es ist trocken.
+it is dry.
+Es ist feucht.
+it is wet.
+Es regnet.
+it is raining.
+Es schneit.
+it is snowing.
+Es blitzt.
+it lightens.
+Es donnert.
+There is a thunder.
+Es nebelt. (=Es ist nebelig.)
+It is foggy.
+Es ist 1 Grad.
+It is 1 degree.
+Es sind 10 Grad.
+It is 10 degrees.
