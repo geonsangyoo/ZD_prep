@@ -1,0 +1,64 @@
+die Autobahn
+highway
+Das Dorf liegt direkt an der Autobahn.
+The village is right on the highway.
+der Automat
+the automat
+Zigaretten bekommst du am Automaten.
+You can get cigarettes from the machine.
+Der Fahrkartenautomat ist auf dem Bahnsteig.
+The ticket machine is on the platform.
+automatisch
+automatically
+Die Tür schließt automatisch.
+The door closes automatically.
+Das Zeugnis bekommen Sie automatisch zugeschickt.
+You will automatically receive the certificate.
+der Autor
+the author
+Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.
+This author has already written two books this year.
+backen
+bake
+Wenn du kommst, backe ich einen Kuchen.
+When you come, I will bake a cake.
+die Bäckerei
+bakery
+Wir kaufen unser Brot immer in der Bäckerei am Markt.
+We always buy our bread in the bakery on the market.
+baden
+bathe
+Wenn du haden möchtest: Das Badezimmer ist dort hinten links.
+If you want to bathe: The bathroom is there on the left behind.
+Hier ist Baden verboten!
+Bathing is prohibited here!
+das Bad
+the bathroom
+Nach einem warmen Bad fühlt man sich gleich viel besser.
+After a warm bath, you immediately feel much better.
+Ich möchte ein Zimmer mit Bad.
+I want a room with a bathroom.
+die Badewanne
+bathtub
+Nach einem langen Arbeitstag setzte sie sich in die Badewanne.
+After a long day at work, she sat in the bathtub.
+die Bahn
+train
+Ich komme mit der Bahn.
+I come by train.
+S-Bahn
+Train
+Die S-Bahn ist schneller als die Straßenbahn.
+The S-Bahn is faster than the tram.
+die Straßenbahn
+tramway
+Nehmen Sie die Straßenbahn Nr. 16.
+Take tram number 16.
+die U-Bahn
+subway
+Die letzte U-Bahn geht um 23.15 Uhr.
+The last subway leaves at 11:15 p.m. the station.
+der Bahnhof
+station
+Ich bringe Sie zum Bahnhof.
+I will take you to the train station.
